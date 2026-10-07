@@ -1,16 +1,26 @@
-## Hi there 👋
+# ApeRadarX — Solana Trading Bot
 
-<!--
-**emmyrichie11/emmyrichie11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ApeRadarX is a Telegram-based Solana trading bot built for traders and crypto enthusiasts exploring Solana tokens and memecoins.
 
-Here are some ideas to get you started:
+## 🚀 Launch ApeRadarX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👉 Open ApeRadarX on Telegram (https://t.me/ApeRadarXBot)
+
+Official Telegram bot: @ApeRadarXBot
+
+## Features
+
+- Solana token trading tools
+- Memecoin trading
+- Token information
+- Buy and sell tools
+- Wallet management
+- AI Mode
+- PNL tracking
+- Solana-focused trading tools
+
+## About ApeRadarX
+
+ApeRadarX provides Telegram-based tools for users interested in Solana trading and memecoin markets.
+
+Always verify that you are using the official @ApeRadarXBot account.
